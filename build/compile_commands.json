@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lh/vscode/common/build",
+  "command": "/usr/bin/cc  -I/home/lh/vscode/common/common  -pthread   -std=c++11 -pthread -o CMakeFiles/test.dir/test.c.o   -c /home/lh/vscode/common/test.c",
+  "file": "/home/lh/vscode/common/test.c"
+},
+{
+  "directory": "/home/lh/vscode/common/build",
+  "command": "/usr/bin/cc  -I/home/lh/vscode/common/common  -pthread   -std=c++11 -pthread -o CMakeFiles/test.dir/thread_pool.c.o   -c /home/lh/vscode/common/thread_pool.c",
+  "file": "/home/lh/vscode/common/thread_pool.c"
+}
+]
